@@ -21,3 +21,8 @@ Right now I am currently working on learning these:
 - 2013-2017
 - Bachelor of Science in Infomation Technology
 - Malinao, Pasig City 1600
+
+## HOBBIES & INTERESTS
+- Toys (collecting, photography)
+- Music
+- Movies
