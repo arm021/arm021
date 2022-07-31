@@ -10,3 +10,8 @@ Some of the programming languages I know are:
 Here are some of my other skills I know but not expert with:
 - Photoshop
 - Illustrator
+
+Right now I am currently working on learning these:
+- GitHub
+- Javascript
+- Outsystems
