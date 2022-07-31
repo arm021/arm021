@@ -15,3 +15,9 @@ Right now I am currently working on learning these:
 - GitHub
 - Javascript
 - Outsystems
+
+## EDUCATION
+### Pasig Catholic College
+- 2013-2017
+- Bachelor of Science in Infomation Technology
+- Malinao, Pasig City 1600
