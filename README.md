@@ -26,3 +26,6 @@ Right now I am currently working on learning these:
 - Toys (collecting, photography)
 - Music
 - Movies
+
+## CONTACT INFORMATION
+- e-mail address: micuaandrew@gmail.com
