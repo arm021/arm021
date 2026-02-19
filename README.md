@@ -1,31 +1,16 @@
-# Hello there!
-### I'm Andrew Rey Micua, you can call me by my first name. I am currently employed as a Junior Shopify Store Developer. I, also, do buy/sell/trade of toys as my side hustle.
+# Hi, I'm Andrew 👋
 
-## SKILLS
-Some of the programming languages I know are:
--  Liquid programming language
-- HTML
-- CSS
+Frontend Developer with 5+ years of experience building Shopify e-commerce stores.
 
-Here are some of my other skills I know but not expert with:
-- Photoshop
-- Illustrator
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- Shopify (Liquid)
+- Performance Optimization (Lighthouse, Core Web Vitals)
 
-Right now I am currently working on learning these:
-- GitHub
-- Javascript
-- Outsystems
+## 🚀 Currently Learning
+- React.js
+- Next.js
+- Modern Frontend Development
 
-## EDUCATION
-### Pasig Catholic College
-- 2013-2017
-- Bachelor of Science in Infomation Technology
-- Malinao, Pasig City 1600
-
-## HOBBIES & INTERESTS
-- Toys (collecting, photography)
-- Music
-- Movies
-
-## CONTACT INFORMATION
-- e-mail address: micuaandrew@gmail.com
+## 📌 Projects
+(Projects coming soon)
