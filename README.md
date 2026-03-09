@@ -12,8 +12,15 @@ Frontend Developer with 5+ years of experience building Shopify e-commerce store
 - Next.js
 - Modern Frontend Development
 
-## 📌 Projects
-- [Shopify Perfomance Case Study](https://github.com/arm021/shopify-performance-case-study.git)
-- [Product List (Vanilla JS)](https://github.com/arm021/js-product-list)
-- [E-Commerce UI (React JS)](https://github.com/arm021/react-ecommerce-ui)
-- [Accordion (React JS)](https://github.com/arm021/react-accordion)
+## 📌 Featured Projects
+### [Accordion App (React JS)](https://github.com/arm021/react-accordion)
+- Interactive accordion component built with React demonstrating state management and dynamic UI behavior.
+
+### [E-Commerce UI (React JS)](https://github.com/arm021/react-ecommerce-ui)
+- Simple e-commerce frontend with product listing and cart functionality built using React.
+
+### [Product List (Vanilla JS)](https://github.com/arm021/js-product-list)
+- Dynamic product listing built with vanilla JavaScript and DOM manipulation.
+
+### [Shopify Perfomance Case Study](https://github.com/arm021/shopify-performance-case-study.git)
+- Demonstrates performance optimization techniques used to achieve Lighthouse scores of 85+.
