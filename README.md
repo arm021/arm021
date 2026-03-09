@@ -13,4 +13,7 @@ Frontend Developer with 5+ years of experience building Shopify e-commerce store
 - Modern Frontend Development
 
 ## 📌 Projects
-(Projects coming soon)
+- [Shopify Perfomance Case Study](https://github.com/arm021/shopify-performance-case-study.git)
+- [Product List (Vanilla JS)](https://github.com/arm021/js-product-list)
+- [E-Commerce UI (React JS)](https://github.com/arm021/react-ecommerce-ui)
+- [Accordion (React JS)](https://github.com/arm021/react-accordion)
