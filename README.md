@@ -3,7 +3,7 @@
 Frontend Developer with 5+ years of experience building Shopify e-commerce stores.
 
 ## 🔧 Tech Stack
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Bootstrap
 - Shopify (Liquid)
 - Performance Optimization (Lighthouse, Core Web Vitals)
 
@@ -14,11 +14,11 @@ Frontend Developer with 5+ years of experience building Shopify e-commerce store
 ## 📌 Featured Projects
 ### [React Accordion App](https://github.com/arm021/react-accordion)
 - Interactive accordion component built with React demonstrating state management and dynamic UI behavior.
-- Tech Stack: React JS, Bootstrap
+- Tech Stack: React, JavaScript, Bootstrap, CSS
 
 ### [React E-Commerce UI](https://github.com/arm021/react-ecommerce-ui)
 - Simple e-commerce frontend with product listing and cart functionality built using React.
-- Tech Stack: React JS, JavaScript
+- Tech Stack: React, JavaScript
 
 ### [Vanilla JavaScript Product List](https://github.com/arm021/js-product-list)
 - Dynamic product listing built with vanilla JavaScript and DOM manipulation.
