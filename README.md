@@ -12,15 +12,15 @@ Frontend Developer with 5+ years of experience building Shopify e-commerce store
 - Tailwind CSS
 
 ## 📌 Featured Projects
-### [Accordion App (React JS)](https://github.com/arm021/react-accordion)
+### [React Accordion App](https://github.com/arm021/react-accordion)
 - Interactive accordion component built with React demonstrating state management and dynamic UI behavior.
 - Tech Stack: React JS, Bootstrap
 
-### [E-Commerce UI (React JS)](https://github.com/arm021/react-ecommerce-ui)
+### [React E-Commerce UI](https://github.com/arm021/react-ecommerce-ui)
 - Simple e-commerce frontend with product listing and cart functionality built using React.
-- Tech Stack: React JS
+- Tech Stack: React JS, JavaScript
 
-### [Product List (Vanilla JS)](https://github.com/arm021/js-product-list)
+### [Vanilla JavaScript Product List](https://github.com/arm021/js-product-list)
 - Dynamic product listing built with vanilla JavaScript and DOM manipulation.
 - Tech Stack: Javascript
 
